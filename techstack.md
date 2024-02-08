@@ -5,20 +5,20 @@ stackshareiodev/ad_OpenGFW is built on the following main stack:
 
 - [Golang](http://golang.org/) – Languages
 - [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- [Testify](https://github.com/stretchr/testify) – Go Testing
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Appzi](https://www.appzi.com/) – Feedback Widget
 - [Quickwork](https://quickwork.co/) – Workflow Manager
-- [ZyXel](https://www.zyxel.com/us/en/) – Networking Hardware
-- [FinCRM](http://www.fincrm.net) – CRM
-- [Content Discovery Feed](https://storychief.io/content-discovery) – Knowledge Management
-- [sktime](https://www.sktime.org/en/latest/) – Machine Learning Tools
-- [OpenYurt](https://openyurt.io/en-us/) – Container Tools
 - [Earthly](https://www.earthly.dev/) – Container Tools
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [JBehave](https://jbehave.org/) – Testing Frameworks
-- [EmailOctopus](https://emailoctopus.com/) – Email Marketing
+- [OpenYurt](https://openyurt.io/en-us/) – Container Tools
+- [Testify](https://github.com/stretchr/testify) – Go Testing
+- [ZyXel](https://www.zyxel.com/us/en/) – Networking Hardware
+- [Appzi](https://www.appzi.com/) – Feedback Widget
+- [Content Discovery Feed](https://storychief.io/content-discovery) – Knowledge Management
 - [DAGsHub](https://dagshub.com) – Data Science Tools
+- [EmailOctopus](https://emailoctopus.com/) – Email Marketing
+- [FinCRM](http://www.fincrm.net) – CRM
 - [Modyo Customer Portals](https://www.modyo.com/solution/customer-portals) – Customer Profiles
+- [sktime](https://www.sktime.org/en/latest/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -30,20 +30,20 @@ stackshareiodev/ad_OpenGFW is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/8695/stretchr.png' alt='Testify'/> [Testify](https://github.com/stretchr/testify) – Go Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/21120/default_ff503018433e4c15bd8f88f38f956808d71ae76e.jpg' alt='Appzi'/> [Appzi](https://www.appzi.com/) – Feedback Widget
 - <img width='25' height='25' src='https://img.stackshare.io/service/21122/default_1f970871c388438e737793ed23ce9b5099a178cf.jpg' alt='Quickwork'/> [Quickwork](https://quickwork.co/) – Workflow Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/21126/default_82855a9a63ac94e02248a391b260a94acbafb41a.png' alt='ZyXel'/> [ZyXel](https://www.zyxel.com/us/en/) – Networking Hardware
-- <img width='25' height='25' src='https://img.stackshare.io/service/21129/default_a6389ef2c20db890998e2b9b194d515eb3e79443.jpg' alt='FinCRM'/> [FinCRM](http://www.fincrm.net) – CRM
-- <img width='25' height='25' src='https://img.stackshare.io/service/21138/default_1333cc334a57817c9ab69aeb76cfdcafe582056a.jpg' alt='Content Discovery Feed'/> [Content Discovery Feed](https://storychief.io/content-discovery) – Knowledge Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/21145/default_e666d7c3f53fbe0134f58c3072ae6af7c46cf562.jpg' alt='sktime'/> [sktime](https://www.sktime.org/en/latest/) – Machine Learning Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/21147/default_f869ec037993bd2c3967e7b605ca929be6bbf362.png' alt='OpenYurt'/> [OpenYurt](https://openyurt.io/en-us/) – Container Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/21148/default_4518d3c5a1f763ea9eb5a5959847ac06b2b3cbe5.jpg' alt='Earthly'/> [Earthly](https://www.earthly.dev/) – Container Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/21152/default_be7d0621c1cb8392534d70dac8830cce7a486fd0.png' alt='JBehave'/> [JBehave](https://jbehave.org/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/21207/default_4e5599aba925e3b3a2109b439679659542786fed.jpg' alt='EmailOctopus'/> [EmailOctopus](https://emailoctopus.com/) – Email Marketing
+- <img width='25' height='25' src='https://img.stackshare.io/service/21147/default_f869ec037993bd2c3967e7b605ca929be6bbf362.png' alt='OpenYurt'/> [OpenYurt](https://openyurt.io/en-us/) – Container Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/8695/stretchr.png' alt='Testify'/> [Testify](https://github.com/stretchr/testify) – Go Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/21126/default_82855a9a63ac94e02248a391b260a94acbafb41a.png' alt='ZyXel'/> [ZyXel](https://www.zyxel.com/us/en/) – Networking Hardware
+- <img width='25' height='25' src='https://img.stackshare.io/service/21120/default_ff503018433e4c15bd8f88f38f956808d71ae76e.jpg' alt='Appzi'/> [Appzi](https://www.appzi.com/) – Feedback Widget
+- <img width='25' height='25' src='https://img.stackshare.io/service/21138/default_1333cc334a57817c9ab69aeb76cfdcafe582056a.jpg' alt='Content Discovery Feed'/> [Content Discovery Feed](https://storychief.io/content-discovery) – Knowledge Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/21300/default_a169b2bfb5d5868361ec02044e5a39e1896c433d.png' alt='DAGsHub'/> [DAGsHub](https://dagshub.com) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/21207/default_4e5599aba925e3b3a2109b439679659542786fed.jpg' alt='EmailOctopus'/> [EmailOctopus](https://emailoctopus.com/) – Email Marketing
+- <img width='25' height='25' src='https://img.stackshare.io/service/21129/default_a6389ef2c20db890998e2b9b194d515eb3e79443.jpg' alt='FinCRM'/> [FinCRM](http://www.fincrm.net) – CRM
 - <img width='25' height='25' src='https://img.stackshare.io/service/21315/default_499399dc690af0e91d379644dec00880e20c6f5a.png' alt='Modyo Customer Portals'/> [Modyo Customer Portals](https://www.modyo.com/solution/customer-portals) – Customer Profiles
+- <img width='25' height='25' src='https://img.stackshare.io/service/21145/default_e666d7c3f53fbe0134f58c3072ae6af7c46cf562.jpg' alt='sktime'/> [sktime](https://www.sktime.org/en/latest/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -54,7 +54,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [stackshareiodev/ad_OpenGFW](https://github.com/stackshareiodev/ad_OpenGFW)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|26<br/>Tools used|02/07/24 <br/>Report generated|
+|26<br/>Tools used|02/08/24 <br/>Report generated|
 |------|------|
 </div>
 
