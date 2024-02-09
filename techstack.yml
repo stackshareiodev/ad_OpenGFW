@@ -1,12 +1,12 @@
 repo_name: stackshareiodev/ad_OpenGFW
-report_id: dd81955eea572a010b75660ba8854918
+report_id: 871dc824c12739d435909477df3b34e1
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-08T17:19:07+00:00'
+timestamp: '2024-02-09T12:30:28+00:00'
 requested_by: haruue
 provider: github
 branch: master
-detected_tools_count: 26
+detected_tools_count: 6
 tools:
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -32,33 +32,6 @@ tools:
   detection_source: go.mod
   last_updated_by: Rinka
   last_updated_on: 2024-01-31 01:30:35.000000000 Z
-- name: Quickwork
-  description: The Integration and API platform to build automated workflows
-  website_url: https://quickwork.co/
-  version: 1.1.0
-  open_source: false
-  hosted_saas: false
-  category: Data Stores
-  sub_category: API Tools
-  image_url: https://img.stackshare.io/service/21122/default_1f970871c388438e737793ed23ce9b5099a178cf.jpg
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
-- name: Earthly
-  description: Build anything via containers
-  website_url: https://www.earthly.dev/
-  version: 1.18.2
-  license: MPL-2.0
-  open_source: true
-  hosted_saas: false
-  category: Build, Test, Deploy
-  sub_category: Container Tools
-  image_url: https://img.stackshare.io/service/21148/default_4518d3c5a1f763ea9eb5a5959847ac06b2b3cbe5.jpg
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -81,114 +54,6 @@ tools:
   detection_source: ".github/workflows/release.yaml"
   last_updated_by: Toby
   last_updated_on: 2024-01-20 18:42:14.000000000 Z
-- name: JBehave
-  description: A framework for Behaviour-Driven Development (BDD)
-  website_url: https://jbehave.org/
-  version: 1.5.0
-  license: BSD-3-Clause
-  open_source: true
-  hosted_saas: false
-  category: Build, Test, Deploy
-  sub_category: Testing Frameworks
-  image_url: https://img.stackshare.io/service/21152/default_be7d0621c1cb8392534d70dac8830cce7a486fd0.png
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
-- name: OpenYurt
-  description: Extending your native Kubernetes to edge (by Alibaba)
-  website_url: https://openyurt.io/en-us/
-  version: 1.0.5
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Build, Test, Deploy
-  sub_category: Container Tools
-  image_url: https://img.stackshare.io/service/21147/default_f869ec037993bd2c3967e7b605ca929be6bbf362.png
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
-- name: Testify
-  description: A toolkit with common assertions and mocks that plays nicely with the
-    standard library
-  website_url: https://github.com/stretchr/testify
-  version: 1.7.1
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Build, Test, Deploy
-  sub_category: Go Testing
-  image_url: https://img.stackshare.io/service/8695/stretchr.png
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
-- name: ZyXel
-  description: Your Networking Ally
-  website_url: https://www.zyxel.com/us/en/
-  version: 0.3.0
-  open_source: false
-  hosted_saas: false
-  category: Monitoring
-  sub_category: Networking Hardware
-  image_url: https://img.stackshare.io/service/21126/default_82855a9a63ac94e02248a391b260a94acbafb41a.png
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
-- name: Appzi
-  description: A web based user feedback platform that enables SaaS companies to collect
-    product feedback, right from within their website or app
-  website_url: https://www.appzi.com/
-  version: 0.0.0
-  open_source: false
-  hosted_saas: false
-  category: Support, Sales, and Marketing
-  sub_category: Feedback Widget
-  image_url: https://img.stackshare.io/service/21120/default_ff503018433e4c15bd8f88f38f956808d71ae76e.jpg
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
-- name: Content Discovery Feed
-  description: Get inspired by new articles whenever you open a new tab
-  website_url: https://storychief.io/content-discovery
-  version: 1.0.0
-  open_source: false
-  hosted_saas: false
-  category: Collaboration
-  sub_category: Activity Feeds as a Service
-  image_url: https://img.stackshare.io/service/21138/default_1333cc334a57817c9ab69aeb76cfdcafe582056a.jpg
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
-- name: DAGsHub
-  description: Powerful data science platform for collaboration, review, experiment
-    tracking, and data version control
-  website_url: https://dagshub.com
-  version: 1.0.0
-  open_source: false
-  hosted_saas: false
-  category: Libraries
-  sub_category: Data Science Tools
-  image_url: https://img.stackshare.io/service/21300/default_a169b2bfb5d5868361ec02044e5a39e1896c433d.png
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
-- name: Dutypare
-  description: Comparing duty free products from worldwide shops.
-  website_url: https://dutypare.com
-  version: 0.0.0
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/21119/default_7d7cdfe126e00b141809117af1af8ba177913dc4.png
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
 - name: EmailOctopus
   description: Email marketing for less
   website_url: https://emailoctopus.com/
@@ -198,55 +63,6 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Email Marketing
   image_url: https://img.stackshare.io/service/21207/default_4e5599aba925e3b3a2109b439679659542786fed.jpg
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
-- name: FinCRM
-  description: CRM for Small Businesses
-  website_url: http://www.fincrm.net
-  version: 1.8.0
-  open_source: false
-  hosted_saas: false
-  category: Support, Sales, and Marketing
-  sub_category: CRM
-  image_url: https://img.stackshare.io/service/21129/default_a6389ef2c20db890998e2b9b194d515eb3e79443.jpg
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
-- name: Modyo Customer Portals
-  description: Build highly personalized customer portals
-  website_url: https://www.modyo.com/solution/customer-portals
-  version: 1.11.0
-  open_source: false
-  hosted_saas: false
-  category: Support, Sales, and Marketing
-  sub_category: Customer Profiles
-  image_url: https://img.stackshare.io/service/21315/default_499399dc690af0e91d379644dec00880e20c6f5a.png
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
-- name: Outflash
-  description: "#1 email enhancement add-in for Outlook"
-  website_url: https://outflash.xyz
-  version: 1.67.0
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/21931/default_4ca7826f0adcaa1d0edab80159dce2b16e06c99c.png
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Toby
-  last_updated_on: 2024-01-20 00:45:01.000000000 Z
-- name: Undersend
-  description: Send activities-based emails to your users to increase engagement and
-    conversion rate.
-  website_url: https://undersend.com
-  version: 1.8.7
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/21250/default_fce6264bf681941b3ae29f7332544704632b6a4a.png
   detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: Rinka
@@ -261,89 +77,3 @@ tools:
   detection_source: analyzer/interface.go
   last_updated_by: Toby
   last_updated_on: 2024-01-20 00:45:01.000000000 Z
-- name: sktime
-  description: A unified toolbox for machine learning with time series (by The Alan
-    Turing Institute)
-  website_url: https://www.sktime.org/en/latest/
-  version: 1.6.0
-  license: BSD-3-Clause
-  open_source: true
-  hosted_saas: false
-  category: Application Utilities
-  sub_category: Machine Learning Tools
-  image_url: https://img.stackshare.io/service/21145/default_e666d7c3f53fbe0134f58c3072ae6af7c46cf562.jpg
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
-- name: container/libcontainer
-  description: Analyzes resource usage and performance characteristics of running
-    containers
-  package_url: https://pkg.go.dev/github.com/google/cadvisor/container/libcontainer
-  version: 0.7.0
-  license: Other
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Go Modules Packages
-  image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
-- name: fsnotify
-  description: Cross-platform file system notifications for Go
-  package_url: https://pkg.go.dev/github.com/fsnotify/fsnotify
-  version: 1.7.0
-  license: BSD-3-Clause
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Go Modules Packages
-  image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
-- name: govcloudair
-  description: VCloud Air API bindings for Golang
-  package_url: https://pkg.go.dev/github.com/vmware/govcloudair
-  version: 0.0.0
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Go Modules Packages
-  image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
-- name: iterator
-  description: Auto-generated Google APIs for Go
-  package_url: https://pkg.go.dev/google.golang.org/api/iterator
-  version: 1.6.0
-  license: BSD-3-Clause
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Go Modules Packages
-  image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
-- name: methods
-  description: Go library for the VMware vSphere API
-  package_url: https://pkg.go.dev/github.com/vmware/govmomi/vim25/methods
-  version: 1.1.19
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Go Modules Packages
-  image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/stackshareiodev/ad_OpenGFW/blob/master/go.sum
-  detection_source: go.mod
-  last_updated_by: Rinka
-  last_updated_on: 2024-01-31 01:30:35.000000000 Z
